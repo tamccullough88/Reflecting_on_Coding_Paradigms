@@ -1,0 +1,13 @@
+Is one of these coding paradigms "better" than the other? Why or why not?
+I don't htink one is any better than the other. They have their individual uses and are meant for different things. You can use them together, and we probably will, but they are not better or worse, you just have to use them properly.
+
+Given the opportunity to work predominantly using either of these coding paradigms, which seems more appealing? Why?
+To me, the OOP style seems more appealing. I want to work more with the backend and how the OOP is written, it seems like that would be the way to go to be able to work on the backend of applications.
+
+Now being more familiar with these coding paradigms, what tasks/features/pieces of logic would be best handled using functional programming? Object Oriented Programming?
+I feel that organizing a database may be best suited for functional programming. making sure things are sorted properly in their columns and math functions are done properly. 
+For OOP, this would be more for making, updating, and maintaining a database, I think
+
+Personally, which of these styles takes more work to understand? What should be done in order to deepen understanding related to this paradigm?
+I think, because I do not have that strong of backgorund in math at the moment, that functional programing would be harder to understand. Making algorithms to be able to sort, pull, read, and do complex math problems has been a struggle with JS, and Ido not feel it would be any easier with PY. 
+To deepen understanding, I would nee do ttake more math classes, study documentation more, and keep practicing problems on leetcode and hackerrank.
