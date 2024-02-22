@@ -48,6 +48,13 @@ class Sebulbas_Pod(Podracer):
     def Flame_Jet(self,another_racer):
         another_racer.condition = "trashed"
 
+
+pod = Podracer(2, 'perfect', 100)
+print('Condition: ', pod.condition)
+pod.repair()
+print('Condition after calling repair method: ', pod.condition)
+
+
 '''
 How does this solution demonstrate the four pillars of OOP? (It may not demonstrate all of them, describe only those that apply)
 Encapsulation:
